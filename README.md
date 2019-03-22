@@ -22,7 +22,7 @@ There's only one problem: our local pizzeria's pizza builder **isn't working**. 
 
 	```
 	git add .
-	git commit -m "done"
+	git commit -m "Done"
 	git push origin master
 	```
 - Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
